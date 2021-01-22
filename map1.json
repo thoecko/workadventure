@@ -10685,19 +10685,6 @@
                               }]
                       }],
                "tilewidth":32
-              }, 
-              {
-               "columns":12,
-               "firstgid":1577,
-               "image":"buch-outdoor.png",
-               "imageheight":192,
-               "imagewidth":384,
-               "margin":0,
-               "name":"buch-outdoor",
-               "spacing":0,
-               "tilecount":0,
-               "tileheight":32,
-               "tilewidth":32
               }],
        "tilewidth":32,
        "type":"map",
