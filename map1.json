@@ -553,7 +553,7 @@
               {
                "columns":8,
                "firstgid":1,
-               "image":"workadventure-map-starter-kit-master\/floortileset.png",
+               "image":"floortileset.png",
                "imageheight":256,
                "imagewidth":256,
                "margin":0,
@@ -585,7 +585,7 @@
               {
                "columns":12,
                "firstgid":65,
-               "image":"tileset\/buch-outdoor.png",
+               "image":"buch-outdoor.png",
                "imageheight":192,
                "imagewidth":384,
                "margin":0,
@@ -598,7 +598,7 @@
               {
                "columns":32,
                "firstgid":137,
-               "image":"workadventure-map-starter-kit-master\/treepacknewest.png",
+               "image":"treepacknewest.png",
                "imageheight":1024,
                "imagewidth":1024,
                "margin":0,
