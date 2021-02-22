@@ -966,7 +966,7 @@
         {
          "columns":8,
          "firstgid":321,
-         "image":"..\/perspective_walls.png",
+         "image":"perspective_walls.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -979,7 +979,7 @@
         {
          "columns":12,
          "firstgid":385,
-         "image":"..\/pcscrdm.png",
+         "image":"pcscrdm.png",
          "imageheight":256,
          "imagewidth":384,
          "margin":0,
