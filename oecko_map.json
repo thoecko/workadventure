@@ -975,7 +975,20 @@
          "tilecount":64,
          "tileheight":32,
          "tilewidth":32
-        },
+        }, 
+        {
+         "columns":12,
+         "firstgid":385,
+         "image":"pcscrdm.png",
+         "imageheight":256,
+         "imagewidth":384,
+         "margin":0,
+         "name":"pcscrdm",
+         "spacing":0,
+         "tilecount":96,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
         {
          "columns":32,
          "firstgid":481,
