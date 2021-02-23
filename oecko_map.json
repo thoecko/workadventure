@@ -963,7 +963,7 @@
                         }]
                 }],
          "tilewidth":32
-        },
+        }, 
         {
          "columns":12,
          "firstgid":385,
@@ -976,7 +976,7 @@
          "tilecount":96,
          "tileheight":32,
          "tilewidth":32
-        },],
+        }],
  "tilewidth":32,
  "type":"map",
  "version":1.4,
